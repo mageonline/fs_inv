@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+<page id="314153" voice="no">
+  <t id="1">..: Inventarsammler :..</t>
+  <t id="2">\033C%1\033X sammelte Folgendes von \033C%2\033X:\n%3</t>
+  <t id="3">Inventarsammler starten</t>
+  <t id="4">Inventarsammler stoppen</t>
+  <t id="5"> \033Y%1\033X\033C x%2\033X\n</t>
+</page>
+</language>
